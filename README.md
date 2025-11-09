@@ -4,6 +4,8 @@ Fine-Tuning a Transformer Model for Handwritten French Text Recognition
 ## Description
 This project focuses on fine-tuning the pre-trained transformer model ```microsoft/trocr-small-handwritten``` for the task of recognizing handwritten text in French. We utilize the RIMES 2011 dataset, which contains a diverse range of handwritten text samples, allowing us to improve recognition quality and adapt the model to the specifics of French handwriting.
 
+### How to use
+Clone this repo and run the notebook, dataset and required params would be settled.
 ### Main goals
 - Model Adaptation: Fine-tune the pre-trained model ```microsoft/trocr-small-handwritten``` to enhance the accuracy of handwritten French text recognition.
 - Performance Evaluation: Conduct an evaluation of the model's performance on the test set from RIMES 2011 dataset and compare the results with existing solutions.
